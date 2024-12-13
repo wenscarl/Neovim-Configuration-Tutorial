@@ -5,4 +5,5 @@ echo -e "alias vim='nvim'\n alias vi='nvim'\nalias v='nvim'" >> ~/.bashrc
 source ~/.bashrc
 
 git clone https://github.com/wenscarl/Neovim-Configuration-Tutorial.git
+mkdir -p ~/.config/nvim
 cp -r sample_config/nvim/* ~/.config/nvim/
