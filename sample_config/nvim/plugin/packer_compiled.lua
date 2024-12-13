@@ -149,11 +149,11 @@ _G.packer_plugins = {
     path = "/root/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
     url = "https://github.com/nvim-tree/nvim-tree.lua"
   },
-  ["nvim-treesitter"] = {
-    loaded = true,
-    path = "/root/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
-    url = "https://github.com/nvim-treesitter/nvim-treesitter"
-  },
+  -- ["nvim-treesitter"] = {
+  --   loaded = true,
+  --   path = "/root/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+  --   url = "https://github.com/nvim-treesitter/nvim-treesitter"
+  -- },
   ["nvim-ts-rainbow"] = {
     loaded = true,
     path = "/root/.local/share/nvim/site/pack/packer/start/nvim-ts-rainbow",
